@@ -28,7 +28,7 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p}) => {
   //no me roben la decoracion, no tengo creatividad
 
   let menuA = `
-*╭━━❍𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃❍━━╮*
+*╭━━❍𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭❍━━╮*
 *┃ ╭━━━━━━━━━━━━━━━━╮*
 *┃ ┃ ╭┈────────────╮*
 *┃ ┃ │❍  𝐌𝐄𝐍𝐔 ❍*
@@ -39,7 +39,7 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p}) => {
 *┃┃  ❍ ${ucapan()} ❍*
 *┃┣━━━━━━━━━━━━━━━━╾•*
 *┃┃ ⋄ CREADOR DEL BOT:  ${creatorname}*
-*┃┃ ⋄ NUMERO DEL CREADOR: wa.me/593959425714 (𝐍𝐎 𝐁𝐎𝐓)*
+*┃┃ ⋄ NUMERO DEL CREADOR: wa.me/5491127914352 (𝐍𝐎 𝐁𝐎𝐓)*
 *┃┃ ⋄ VERSION » ${vs}*
 *┃┃ ⋄ FECHA » ${week}, ${date}*
 *┃┃ ⋄ TIEMPO ACTIVO » ${uptime}*
@@ -47,7 +47,7 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p}) => {
 *┃┃ ⋄ LENGUAJE » 𝐄𝐒𝐏𝐀𝐍̃𝐎𝐋*
 *┃┃ ⋄ USUARIOS » ${Object.keys(global.db.data.users).length}*
 *┃╰━━━━━━━━━━━━━━━━╾•*
-*╰━━━╼𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃╾━━━╯*
+*╰━━━╼𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭╾━━━╯*
 
 *═〔 INFO DEL USUARIO 〕⬣═*
 *║👤 NOMBRE: ${username}*
@@ -506,8 +506,8 @@ let handler = async (m, {conn, usedPrefix, usedPrefix: _p}) => {
 𒅄 ▬▬▬▬ ◆ ▬▬▬▬ 𒅄
 
 ╔══════════════════╗ 
-║ ❒ 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃     
-║ ❒ 𝐁𝐘 𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂       
+║ ❒ 𝐇𝐚𝐮𝐬𝐞 𝐁𝐨𝐭     
+║ ❒ 𝐇𝐚𝐮𝐬𝐞      
 ╚══════════════════╝
 `.trim();
   conn.sendMessage(
